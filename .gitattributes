@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#Automatic Traffic Light Control Simulator
+This project demonstrates how to use Arduino to control multiple LEDs with a timed sequence, which is expanded to automatic traffic light simulator project.
